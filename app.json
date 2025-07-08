@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "PeriodTrackingApp",
+    "slug": "PeriodTrackingApp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "d335f262-d494-49c6-8fa1-2f36fa7d2607"
+      }
+    },
+    "owner": "supersg"
+  }
+}
