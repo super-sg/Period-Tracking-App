@@ -7,7 +7,7 @@ import * as Location from 'expo-location';
 import { ThemeContext } from '../theme/ThemeContext';
 import { fonts } from '../theme/fontStyles';
 
-const GOOGLE_PLACES_API_KEY = 'AIzaSyBSFh6hHojp9XEzoAY_bQf7AgLZAISlPY4'; // Replace with your API key
+const GOOGLE_PLACES_API_KEY = 'API_KEY'; // Replace with your API key
 
 export default function DoctorsScreen() {
   const { darkMode } = useContext(ThemeContext);
